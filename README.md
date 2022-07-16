@@ -1,5 +1,6 @@
 # Moon-Bricks
 A small and fun game to play with your friends.
+Run the moon_bricks.py file to play the game.
 
 ## Game instructions
 P1 moves with the arrow keys, the up and down keys are for moving up and down.
